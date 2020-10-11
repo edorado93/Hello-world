@@ -1,0 +1,18 @@
+print("Hello World")
+
+System.out.println("Hello World");
+
+
+printf("%s","Hello World"); 
+
+<html>
+<title>Amazing Stuff</title>
+<body>
+<h1><strong>Hello World</strong></h1>
+</body>
+</html>
+
+cout<<"Hello World"
+
+
+
